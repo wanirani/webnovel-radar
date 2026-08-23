@@ -304,29 +304,83 @@ def blog_analyze(cfg, th, now):
 
 # ---------------------------------------------------------------- 문피아 연동(선택)
 def munpia_ranks():
-    url = os.environ.get("MUNPIA_JSON_URL", "").strip()
-    if not url:
+    """문피아 저장소 연동. JSON 또는 월별 CSV 스냅샷 지원.
+    URL의 {YYYY-MM}(또는 파일명 끝의 20XX-XX)은 이번 달로 자동 치환되고,
+    이번 달 파일이 없으면 지난달로 한 번 재시도한다. CSV는 같은 제목의
+    마지막 행(=가장 최근 크롤)의 순위를 사용한다."""
+    raw_url = os.environ.get("MUNPIA_JSON_URL", "").strip()
+    if not raw_url:
         return {}
-    try:
-        headers = {}
-        tok = os.environ.get("MUNPIA_TOKEN", "").strip()
-        if tok:
-            headers["Authorization"] = f"token {tok}"
-        j = requests.get(url, headers=headers, timeout=15).json()
-        items = j if isinstance(j, list) else next(
-            (v for v in j.values() if isinstance(v, list)), [])
-        out = {}
-        for i, it in enumerate(items, 1):
-            if not isinstance(it, dict):
+    headers = {}
+    tok = os.environ.get("MUNPIA_TOKEN", "").strip()
+    if tok:
+        headers["Authorization"] = f"token {tok}"
+
+    def month_url(dt):
+        u = raw_url.replace("{YYYY-MM}", dt.strftime("%Y-%m"))
+        u = u.replace("{YYYYMM}", dt.strftime("%Y%m"))
+        return re.sub(r"20\d{2}-\d{2}(?=\.csv$)", dt.strftime("%Y-%m"), u)
+
+    now = now_kst()
+    candidates = [month_url(now)]
+    prev = month_url(now.replace(day=1) - timedelta(days=1))
+    if prev != candidates[0]:
+        candidates.append(prev)
+
+    for url in candidates:
+        try:
+            r = requests.get(url, headers=headers, timeout=20)
+            if r.status_code == 404:
                 continue
-            title = next((it[k] for k in it if "title" in k.lower() or "제목" in k), None)
-            rank = next((it[k] for k in it if "rank" in k.lower() or "순위" in k), i)
-            if title:
-                out[str(title).strip()] = rank
-        return out
-    except Exception as e:
-        log_line("report", f"문피아 연동 실패: {e}")
-        return {}
+            r.raise_for_status()
+            text = r.text.strip()
+            if not text:
+                continue
+            if text[0] in "[{":  # JSON
+                j = r.json()
+                items = j if isinstance(j, list) else next(
+                    (v for v in j.values() if isinstance(v, list)), [])
+                out = {}
+                for i, it in enumerate(items, 1):
+                    if not isinstance(it, dict):
+                        continue
+                    title = next((it[k] for k in it
+                                  if "title" in k.lower() or "제목" in k), None)
+                    rank = next((it[k] for k in it
+                                 if "rank" in k.lower() or "순위" in k), i)
+                    if title:
+                        out[str(title).strip()] = rank
+                if out:
+                    return out
+                continue
+            # CSV: 헤더에서 제목/순위 열 탐색, 뒤 행이 이길수록 최신
+            rows = list(csv.reader(io.StringIO(text)))
+            if len(rows) < 2:
+                continue
+            hdr = [h.strip().lower() for h in rows[0]]
+            t_i = next((i for i, h in enumerate(hdr)
+                        if "title" in h or "제목" in h or "작품" in h), None)
+            r_i = next((i for i, h in enumerate(hdr)
+                        if "rank" in h or "순위" in h), None)
+            if t_i is None or r_i is None:
+                log_line("report", f"문피아 CSV 열 인식 실패(헤더: {rows[0][:6]})")
+                continue
+            out = {}
+            for row in rows[1:]:
+                if len(row) <= max(t_i, r_i):
+                    continue
+                title = row[t_i].strip()
+                try:
+                    rank = int(float(row[r_i]))
+                except ValueError:
+                    continue
+                if title:
+                    out[title] = rank  # 마지막 행 승리 = 최신 순위
+            if out:
+                return out
+        except Exception as e:
+            log_line("report", f"문피아 연동 실패({url.rsplit('/', 1)[-1]}): {e}")
+    return {}
 
 
 # ---------------------------------------------------------------- 실행 제안
