@@ -1,0 +1,65 @@
+{
+  "project_name": "웹소설 마케팅 레이더",
+  "my_novel": {
+    "title": "국가비매품",
+    "platform": "문피아",
+    "launch_date": "2026-10-07",
+    "genre": "남성향 판타지"
+  },
+  "keywords": {
+    "youtube": [
+      "웹소설 추천",
+      "판타지 웹소설",
+      "헌터물 추천",
+      "회귀물 추천",
+      "웹소설 리뷰",
+      "문피아 소설",
+      "노벨피아 추천"
+    ],
+    "blog": [
+      "웹소설 추천",
+      "판타지 웹소설 추천",
+      "웹소설 리뷰",
+      "회귀물 추천",
+      "헌터물 추천",
+      "문피아 소설",
+      "웹소설 후기"
+    ]
+  },
+  "watch_titles": [
+    "국가비매품",
+    "전지적 독자 시점",
+    "나 혼자만 레벨업",
+    "화산귀환",
+    "검술명가 막내아들",
+    "재벌집 막내아들"
+  ],
+  "youtube": {
+    "discovery_hours_kst": [8, 13, 19, 23],
+    "published_within_hours": 72,
+    "weekly_top_lookback_days": 7,
+    "search_results_per_keyword": 25,
+    "track_days": 14,
+    "top_comments_videos": 5,
+    "region_code": "KR"
+  },
+  "blog": {
+    "display": 30,
+    "fetch_post_detail_max_per_run": 20
+  },
+  "thresholds_default": {
+    "youtube": { "min_views": 5000, "min_subscribers": 30000 },
+    "blog": { "max_rank": 30, "min_posts_7d": 2 }
+  },
+  "pool_targets": {
+    "youtube": { "low": 12, "high": 45 },
+    "blog": { "low": 12, "high": 35 },
+    "adjust_factor": 1.4,
+    "youtube_min_views_floor": 1000,
+    "youtube_min_views_ceil": 300000
+  },
+  "report": {
+    "top_n": 10,
+    "subject_prefix": "[웹소설 레이더]"
+  }
+}
