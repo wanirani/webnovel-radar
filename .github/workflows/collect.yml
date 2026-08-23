@@ -1,0 +1,35 @@
+name: collect
+on:
+  schedule:
+    - cron: "7 * * * *"     # 매시 7분(UTC) 실행 = KST 매시 수집. Private 저장소에서 무료 한도가 걱정되면 "7 */2 * * *" 로 변경
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: radar-collect
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - name: Run collector
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/collect.py
+      - name: Commit data
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data state
+          git commit -m "collect $(date -u +'%Y-%m-%d %H:%M')" || echo "no changes"
+          git pull --rebase origin ${GITHUB_REF_NAME} || true
+          git push || (git pull --rebase origin ${GITHUB_REF_NAME} && git push)
