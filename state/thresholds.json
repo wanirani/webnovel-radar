@@ -1,10 +1,10 @@
 {
  "youtube": {
-  "min_views": 3571,
-  "min_subscribers": 21428
+  "min_views": 2550,
+  "min_subscribers": 15305
  },
  "blog": {
-  "max_rank": 42,
+  "max_rank": 58,
   "min_posts_7d": 2
  }
 }
