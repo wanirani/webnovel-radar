@@ -648,5 +648,45 @@
   "first_seen": "2026-08-25T08:28+09:00",
   "first_views": 1261,
   "watch_hits": []
+ },
+ "taiV-6khEMw": {
+  "video_id": "taiV-6khEMw",
+  "title": "이씨 선족 - 제 6회: 금검문의 기습, 그리고 생생조화단의 비밀(이씨 선족 제6화)",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-08-23T05:43:03Z",
+  "published_kst": "2026-08-23T14:43:03+09:00",
+  "pub_hour_kst": 14,
+  "pub_weekday_kst": 6,
+  "duration_s": 14387,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 7840,
+  "first_seen": "2026-08-25T13:47+09:00",
+  "first_views": 480,
+  "watch_hits": []
+ },
+ "YNSO8ZXNCjM": {
+  "video_id": "YNSO8ZXNCjM",
+  "title": "이씨 선족 - 제 4회: 장경루의 쟁탈전과 3급 지옥견의 위협, 이씨 선족 4화",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-08-23T05:33:59Z",
+  "published_kst": "2026-08-23T14:33:59+09:00",
+  "pub_hour_kst": 14,
+  "pub_weekday_kst": 6,
+  "duration_s": 14066,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 7840,
+  "first_seen": "2026-08-25T13:47+09:00",
+  "first_views": 720,
+  "watch_hits": []
  }
 }
