@@ -688,5 +688,45 @@
   "first_seen": "2026-08-25T13:47+09:00",
   "first_views": 720,
   "watch_hits": []
+ },
+ "AEuk5R-yQLg": {
+  "video_id": "AEuk5R-yQLg",
+  "title": "마오산 퇴마사 - 제 6회: 접음산파와 병원의 악령을 소탕하라 - 접음산파와 병원의 악령을 소탕하라",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-08-25T05:44:39Z",
+  "published_kst": "2026-08-25T14:44:39+09:00",
+  "pub_hour_kst": 14,
+  "pub_weekday_kst": 1,
+  "duration_s": 14267,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 7840,
+  "first_seen": "2026-08-25T19:41+09:00",
+  "first_views": 2,
+  "watch_hits": []
+ },
+ "o30UL7uBjlo": {
+  "video_id": "o30UL7uBjlo",
+  "title": "마오산 퇴마사 - 제 1회: 마오산 퇴마사 제1화: 엽가촌의 저주와 죽은 아이",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-08-25T05:26:42Z",
+  "published_kst": "2026-08-25T14:26:42+09:00",
+  "pub_hour_kst": 14,
+  "pub_weekday_kst": 1,
+  "duration_s": 14188,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 7840,
+  "first_seen": "2026-08-25T19:41+09:00",
+  "first_views": 191,
+  "watch_hits": []
  }
 }
