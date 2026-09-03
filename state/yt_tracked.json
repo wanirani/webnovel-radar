@@ -103,26 +103,6 @@
   "first_views": 18643,
   "watch_hits": []
  },
- "qTmZMjve1ss": {
-  "video_id": "qTmZMjve1ss",
-  "title": "남주와 접촉만이 살길이다ㅣ로맨스 판타지 드라마ㅣEP.4ㅣThe Masquerade ㅣmovie",
-  "channel_id": "UCHJtJ25aNKI1sw-b9u2Q5xA",
-  "channel": "루나판타지 Luna Fantasy",
-  "published_at": "2026-08-20T10:00:01Z",
-  "published_kst": "2026-08-20T19:00:01+09:00",
-  "pub_hour_kst": 19,
-  "pub_weekday_kst": 3,
-  "duration_s": 257,
-  "format": "롱폼",
-  "topic": "캐릭터·세계관",
-  "topics": [
-   "캐릭터·세계관"
-  ],
-  "subs": 16000,
-  "first_seen": "2026-08-24T08:28+09:00",
-  "first_views": 7973,
-  "watch_hits": []
- },
  "07uxxDePI4A": {
   "video_id": "07uxxDePI4A",
   "title": "로판드라마ㅣ흑막남편이 이혼을 안해준다(리마스터 영상)ㅣEP.5  Ugh, here goes his obsession again...",
@@ -324,26 +304,6 @@
   "subs": 7840,
   "first_seen": "2026-08-25T08:28+09:00",
   "first_views": 353,
-  "watch_hits": []
- },
- "zg7vqYDYq4o": {
-  "video_id": "zg7vqYDYq4o",
-  "title": "[로맨스 판타지 웹소설] 다정하게 잔혹히",
-  "channel_id": "UC_CnxSMO3EAS-QyOATDcaMA",
-  "channel": "출판사 월 Month",
-  "published_at": "2026-08-20T12:09:35Z",
-  "published_kst": "2026-08-20T21:09:35+09:00",
-  "pub_hour_kst": 21,
-  "pub_weekday_kst": 3,
-  "duration_s": 27,
-  "format": "쇼츠",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 1710,
-  "first_seen": "2026-08-25T08:28+09:00",
-  "first_views": 1695,
   "watch_hits": []
  },
  "PxIRzqZ9Qow": {
@@ -1474,6 +1434,48 @@
   "subs": 23,
   "first_seen": "2026-09-02T23:19+09:00",
   "first_views": 1174,
+  "watch_hits": []
+ },
+ "T8g9Rw5VZSA": {
+  "video_id": "T8g9Rw5VZSA",
+  "title": "현질무신 #웹툰추천",
+  "channel_id": "UCMoqw1SYis2SvbLpGjGQqVA",
+  "channel": "멸치사장",
+  "published_at": "2026-09-03T08:30:07Z",
+  "published_kst": "2026-09-03T17:30:07+09:00",
+  "pub_hour_kst": 17,
+  "pub_weekday_kst": 3,
+  "duration_s": 58,
+  "format": "쇼츠",
+  "topic": "리뷰·감상",
+  "topics": [
+   "리뷰·감상",
+   "추천·큐레이션",
+   "플랫폼·시장 동향"
+  ],
+  "subs": 1650,
+  "first_seen": "2026-09-03T23:22+09:00",
+  "first_views": 1579,
+  "watch_hits": []
+ },
+ "4UjSIDt1ov4": {
+  "video_id": "4UjSIDt1ov4",
+  "title": "과학으로 수선하기 - 제 9회: 흑사막을 뒤덮은 혈괴비의 전설, 용암 길을 돌파하다",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-09-02T04:41:50Z",
+  "published_kst": "2026-09-02T13:41:50+09:00",
+  "pub_hour_kst": 13,
+  "pub_weekday_kst": 2,
+  "duration_s": 14160,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 7950,
+  "first_seen": "2026-09-03T23:22+09:00",
+  "first_views": 61,
   "watch_hits": []
  }
 }
