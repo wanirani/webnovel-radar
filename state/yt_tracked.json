@@ -19,26 +19,6 @@
   "first_views": 1307,
   "watch_hits": []
  },
- "in0R5ZckpNM": {
-  "video_id": "in0R5ZckpNM",
-  "title": "내가 죽인 드래곤과 결혼했다 #웹툰추천",
-  "channel_id": "UCMoqw1SYis2SvbLpGjGQqVA",
-  "channel": "멸치사장",
-  "published_at": "2026-08-24T08:30:37Z",
-  "published_kst": "2026-08-24T17:30:37+09:00",
-  "pub_hour_kst": 17,
-  "pub_weekday_kst": 0,
-  "duration_s": 71,
-  "format": "숏폼(4분 이하)",
-  "topic": "추천·큐레이션",
-  "topics": [
-   "추천·큐레이션"
-  ],
-  "subs": 1630,
-  "first_seen": "2026-08-25T08:28+09:00",
-  "first_views": 2002,
-  "watch_hits": []
- },
  "AEuk5R-yQLg": {
   "video_id": "AEuk5R-yQLg",
   "title": "마오산 퇴마사 - 제 6회: 접음산파와 병원의 악령을 소탕하라 - 접음산파와 병원의 악령을 소탕하라",
@@ -97,26 +77,6 @@
   "subs": 147,
   "first_seen": "2026-08-25T23:54+09:00",
   "first_views": 1316,
-  "watch_hits": []
- },
- "TYE_Qtzi3XI": {
-  "video_id": "TYE_Qtzi3XI",
-  "title": "종이 출판의 시대는 죽었다. #웹소설 #웹소설작가 #웹소설추천",
-  "channel_id": "UC6Xqqfs9olMq2uNu2-uswYA",
-  "channel": "한국심리교육협회",
-  "published_at": "2026-08-24T05:00:35Z",
-  "published_kst": "2026-08-24T14:00:35+09:00",
-  "pub_hour_kst": 14,
-  "pub_weekday_kst": 0,
-  "duration_s": 40,
-  "format": "쇼츠",
-  "topic": "추천·큐레이션",
-  "topics": [
-   "추천·큐레이션"
-  ],
-  "subs": 6280,
-  "first_seen": "2026-08-26T08:31+09:00",
-  "first_views": 24,
   "watch_hits": []
  },
  "8rANY8UChXM": {
@@ -1653,6 +1613,66 @@
   "subs": 7990,
   "first_seen": "2026-09-07T08:44+09:00",
   "first_views": 578,
+  "watch_hits": []
+ },
+ "bVUmNkFKN3A": {
+  "video_id": "bVUmNkFKN3A",
+  "title": "택천기 - 제 7회: 운명을 바꾸려는 소년의 수련",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-09-07T06:24:46Z",
+  "published_kst": "2026-09-07T15:24:46+09:00",
+  "pub_hour_kst": 15,
+  "pub_weekday_kst": 0,
+  "duration_s": 13988,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 8000,
+  "first_seen": "2026-09-07T19:07+09:00",
+  "first_views": 8,
+  "watch_hits": []
+ },
+ "tsaeUJUJvIU": {
+  "video_id": "tsaeUJUJvIU",
+  "title": "택천기 - 제 1회: 운명을 바꾸기 위한 소년의 여정, 택천기 1화",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-09-07T06:07:11Z",
+  "published_kst": "2026-09-07T15:07:11+09:00",
+  "pub_hour_kst": 15,
+  "pub_weekday_kst": 0,
+  "duration_s": 14353,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 8000,
+  "first_seen": "2026-09-07T19:07+09:00",
+  "first_views": 206,
+  "watch_hits": []
+ },
+ "hBteLzWWI0Q": {
+  "video_id": "hBteLzWWI0Q",
+  "title": "택천기 - 제 4회: 혼약을 파기하러 온 소년 (혼약을 파기하러 온 소년)",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-09-07T06:19:06Z",
+  "published_kst": "2026-09-07T15:19:06+09:00",
+  "pub_hour_kst": 15,
+  "pub_weekday_kst": 0,
+  "duration_s": 14099,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 8000,
+  "first_seen": "2026-09-07T19:07+09:00",
+  "first_views": 28,
   "watch_hits": []
  }
 }
