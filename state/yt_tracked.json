@@ -301,26 +301,6 @@
   "first_views": 1265,
   "watch_hits": []
  },
- "o31jSDCo4w4": {
-  "video_id": "o31jSDCo4w4",
-  "title": "6화 《공녀님의 비밀 메이드가 된 기사단장》 #로판 #로맨스판타지 #AI드라마 #AI영상 #웹소설 #웹툰 #판타지 #기사단장 #메이드 #여장 #공녀 #귀족 | Ai로판실사화",
-  "channel_id": "UCBD1iVZj_i0nVNE_pHQeZRA",
-  "channel": "루비나라 Ruby Nara",
-  "published_at": "2026-08-27T03:20:10Z",
-  "published_kst": "2026-08-27T12:20:10+09:00",
-  "pub_hour_kst": 12,
-  "pub_weekday_kst": 3,
-  "duration_s": 511,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 1100,
-  "first_seen": "2026-08-29T23:23+09:00",
-  "first_views": 3234,
-  "watch_hits": []
- },
  "XUV3D2s0SfA": {
   "video_id": "XUV3D2s0SfA",
   "title": "웹소설 처음인데 이렇게 써봐도 될까요?",
@@ -359,26 +339,6 @@
   "subs": 7930,
   "first_seen": "2026-09-02T08:14+09:00",
   "first_views": 196,
-  "watch_hits": []
- },
- "AGUWRzeth68": {
-  "video_id": "AGUWRzeth68",
-  "title": "작가됨 #웹소설 #작법 #강의",
-  "channel_id": "UCJvhu4L206ColqczsDprE6A",
-  "channel": "공방 레몬식초",
-  "published_at": "2026-08-27T03:15:36Z",
-  "published_kst": "2026-08-27T12:15:36+09:00",
-  "pub_hour_kst": 12,
-  "pub_weekday_kst": 3,
-  "duration_s": 113,
-  "format": "숏폼(4분 이하)",
-  "topic": "작가 후기·창작기",
-  "topics": [
-   "작가 후기·창작기"
-  ],
-  "subs": 155,
-  "first_seen": "2026-09-02T08:14+09:00",
-  "first_views": 1247,
   "watch_hits": []
  },
  "KbRYBcsaoak": {
@@ -1751,6 +1711,27 @@
   "subs": 8020,
   "first_seen": "2026-09-09T23:23+09:00",
   "first_views": 565,
+  "watch_hits": []
+ },
+ "o0iUIqQ6m6k": {
+  "video_id": "o0iUIqQ6m6k",
+  "title": "노벨라 리뷰 (작가 집필 툴)",
+  "channel_id": "UC--MRmppyBK8ELdP8MX0ssQ",
+  "channel": "마틴쌤 (Coach Old Martin)",
+  "published_at": "2026-09-09T18:00:21Z",
+  "published_kst": "2026-09-10T03:00:21+09:00",
+  "pub_hour_kst": 3,
+  "pub_weekday_kst": 3,
+  "duration_s": 2845,
+  "format": "롱폼",
+  "topic": "작가 후기·창작기",
+  "topics": [
+   "작가 후기·창작기",
+   "리뷰·감상"
+  ],
+  "subs": 1040,
+  "first_seen": "2026-09-10T13:25+09:00",
+  "first_views": 29,
   "watch_hits": []
  }
 }
