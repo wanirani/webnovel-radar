@@ -1,24 +1,4 @@
 {
- "0D0FtQTOx0o": {
-  "video_id": "0D0FtQTOx0o",
-  "title": "[숏드라마] 튄다vs맞장뜬다 #드라마박스추천 #릴숏추천 #웹소설추천",
-  "channel_id": "UCVCTNo_JHFn9h8ikX24sEmQ",
-  "channel": "인디고 픽션",
-  "published_at": "2026-09-01T02:00:34Z",
-  "published_kst": "2026-09-01T11:00:34+09:00",
-  "pub_hour_kst": 11,
-  "pub_weekday_kst": 1,
-  "duration_s": 12,
-  "format": "쇼츠",
-  "topic": "추천·큐레이션",
-  "topics": [
-   "추천·큐레이션"
-  ],
-  "subs": 25,
-  "first_seen": "2026-09-02T08:14+09:00",
-  "first_views": 1244,
-  "watch_hits": []
- },
  "Y3AmHdCUCWQ": {
   "video_id": "Y3AmHdCUCWQ",
   "title": "2026 지상최대 웹소설 공모전 총정리",
@@ -79,26 +59,6 @@
   "subs": 7940,
   "first_seen": "2026-09-02T23:19+09:00",
   "first_views": 27,
-  "watch_hits": []
- },
- "U1lZQnK2qx4": {
-  "video_id": "U1lZQnK2qx4",
-  "title": "노 블 픽 - 추천소설8#Shorts #웹소설추천 #소설추천 #웹소설",
-  "channel_id": "UCr7mRIzo277K5buIkSwCH6w",
-  "channel": "노 블 픽 - 웹소설 소개 및 추천",
-  "published_at": "2026-09-01T01:30:31Z",
-  "published_kst": "2026-09-01T10:30:31+09:00",
-  "pub_hour_kst": 10,
-  "pub_weekday_kst": 1,
-  "duration_s": 47,
-  "format": "쇼츠",
-  "topic": "추천·큐레이션",
-  "topics": [
-   "추천·큐레이션"
-  ],
-  "subs": 23,
-  "first_seen": "2026-09-02T23:19+09:00",
-  "first_views": 1007,
   "watch_hits": []
  },
  "VwwzUNRy4gY": {
@@ -1761,6 +1721,26 @@
   "subs": 2440,
   "first_seen": "2026-09-15T08:49+09:00",
   "first_views": 4558,
+  "watch_hits": []
+ },
+ "N7zk4xQmNjI": {
+  "video_id": "N7zk4xQmNjI",
+  "title": "혼자 웹소설을 애니화 해봤다",
+  "channel_id": "UCph2SLlcz3KRlm6rZXgdKMg",
+  "channel": "연독이 웹소설",
+  "published_at": "2026-09-12T18:33:56Z",
+  "published_kst": "2026-09-13T03:33:56+09:00",
+  "pub_hour_kst": 3,
+  "pub_weekday_kst": 6,
+  "duration_s": 826,
+  "format": "롱폼",
+  "topic": "미디어믹스",
+  "topics": [
+   "미디어믹스"
+  ],
+  "subs": 1390,
+  "first_seen": "2026-09-15T13:42+09:00",
+  "first_views": 3065,
   "watch_hits": []
  }
 }
