@@ -1,25 +1,4 @@
 {
- "l5Kis7f-LMY": {
-  "video_id": "l5Kis7f-LMY",
-  "title": "9월 첫째 주 웹소설 랭킹 5위→1위 | 네이버 시리즈 & 카카오페이지",
-  "channel_id": "UCWfubg-I5H2JZSkJLuoWCAA",
-  "channel": "소설추천해주는아재",
-  "published_at": "2026-09-05T12:00:26Z",
-  "published_kst": "2026-09-05T21:00:26+09:00",
-  "pub_hour_kst": 21,
-  "pub_weekday_kst": 5,
-  "duration_s": 180,
-  "format": "숏폼(4분 이하)",
-  "topic": "추천·큐레이션",
-  "topics": [
-   "추천·큐레이션",
-   "플랫폼·시장 동향"
-  ],
-  "subs": 1390,
-  "first_seen": "2026-09-06T19:46+09:00",
-  "first_views": 35,
-  "watch_hits": []
- },
  "doqohxrFLxk": {
   "video_id": "doqohxrFLxk",
   "title": "북부대공과 정략결혼 28화  #북부대공#로맨스판타지",
@@ -1744,6 +1723,46 @@
   "subs": 134000,
   "first_seen": "2026-09-19T19:46+09:00",
   "first_views": 2900,
+  "watch_hits": []
+ },
+ "3hDtVUjOA6g": {
+  "video_id": "3hDtVUjOA6g",
+  "title": "용신지존 - 제 14회: 복수를 예고한 사악한 고수 모용천 등장",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-09-17T09:34:25Z",
+  "published_kst": "2026-09-17T18:34:25+09:00",
+  "pub_hour_kst": 18,
+  "pub_weekday_kst": 3,
+  "duration_s": 14452,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 8180,
+  "first_seen": "2026-09-19T23:18+09:00",
+  "first_views": 440,
+  "watch_hits": []
+ },
+ "HCtqXakwb9E": {
+  "video_id": "HCtqXakwb9E",
+  "title": "[마왕의 정원] EP.4 - 마왕의 눈 | 로맨스 판타지 웹소설",
+  "channel_id": "UC0q1Egh2RkJHMFx_mWZmyrw",
+  "channel": "셀리스",
+  "published_at": "2026-09-17T10:00:19Z",
+  "published_kst": "2026-09-17T19:00:19+09:00",
+  "pub_hour_kst": 19,
+  "pub_weekday_kst": 3,
+  "duration_s": 1101,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 341,
+  "first_seen": "2026-09-19T23:18+09:00",
+  "first_views": 1096,
   "watch_hits": []
  }
 }
