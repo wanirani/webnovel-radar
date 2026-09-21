@@ -59,26 +59,6 @@
   "first_views": 28,
   "watch_hits": []
  },
- "KFTlWU62Htw": {
-  "video_id": "KFTlWU62Htw",
-  "title": "월드워Z가 아쉬웠던 이유 #웹소설 #작법 #강의",
-  "channel_id": "UCJvhu4L206ColqczsDprE6A",
-  "channel": "공방 레몬식초",
-  "published_at": "2026-09-07T03:15:37Z",
-  "published_kst": "2026-09-07T12:15:37+09:00",
-  "pub_hour_kst": 12,
-  "pub_weekday_kst": 0,
-  "duration_s": 88,
-  "format": "숏폼(4분 이하)",
-  "topic": "작가 후기·창작기",
-  "topics": [
-   "작가 후기·창작기"
-  ],
-  "subs": 166,
-  "first_seen": "2026-09-08T08:25+09:00",
-  "first_views": 1161,
-  "watch_hits": []
- },
  "idHbep0iMtc": {
   "video_id": "idHbep0iMtc",
   "title": "기연을 얻었는데 너무 똑똑하다 | 15화 #무협소설 #무협오디오북 #오디오북 #무협 #외전 #무협몰아듣기 #무협지 #웹소설 #무협판타지 #판타지",
@@ -179,26 +159,6 @@
   "subs": 9420,
   "first_seen": "2026-09-08T23:22+09:00",
   "first_views": 129,
-  "watch_hits": []
- },
- "DZfi1BwAndI": {
-  "video_id": "DZfi1BwAndI",
-  "title": "[KDBS] 가장 오래된 4천년 전 판타지 이야기 I 판타지아 연대기 1화",
-  "channel_id": "UCtrjzGO2vqn4p28YfP2k00Q",
-  "channel": "고려대학교세종방송국 KDBS",
-  "published_at": "2026-09-07T04:14:16Z",
-  "published_kst": "2026-09-07T13:14:16+09:00",
-  "pub_hour_kst": 13,
-  "pub_weekday_kst": 0,
-  "duration_s": 1099,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 1500,
-  "first_seen": "2026-09-08T23:22+09:00",
-  "first_views": 26,
   "watch_hits": []
  },
  "M8TISEjPdYY": {
@@ -1683,6 +1643,66 @@
   "subs": 341,
   "first_seen": "2026-09-19T23:18+09:00",
   "first_views": 1096,
+  "watch_hits": []
+ },
+ "tD9yQChAOGI": {
+  "video_id": "tD9yQChAOGI",
+  "title": "무협소설 - 파천 32화",
+  "channel_id": "UCMteqciPhwUK_TjEDr-AlAw",
+  "channel": "무협 판타지 소설 오디오북",
+  "published_at": "2026-09-19T23:00:05Z",
+  "published_kst": "2026-09-20T08:00:05+09:00",
+  "pub_hour_kst": 8,
+  "pub_weekday_kst": 6,
+  "duration_s": 865,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 602,
+  "first_seen": "2026-09-21T13:46+09:00",
+  "first_views": 3726,
+  "watch_hits": []
+ },
+ "6qhWBy8x2_0": {
+  "video_id": "6qhWBy8x2_0",
+  "title": "도시의 절세신왕 - 제 3회: 연회장을 발칵 뒤집은 서진의 신약 - 연회의 신약",
+  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
+  "channel": "동방 판타지",
+  "published_at": "2026-09-19T02:45:03Z",
+  "published_kst": "2026-09-19T11:45:03+09:00",
+  "pub_hour_kst": 11,
+  "pub_weekday_kst": 5,
+  "duration_s": 14210,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 8210,
+  "first_seen": "2026-09-21T13:46+09:00",
+  "first_views": 303,
+  "watch_hits": []
+ },
+ "eHWMYjRjg3Y": {
+  "video_id": "eHWMYjRjg3Y",
+  "title": "무협소설 - 파천 34화",
+  "channel_id": "UCMteqciPhwUK_TjEDr-AlAw",
+  "channel": "무협 판타지 소설 오디오북",
+  "published_at": "2026-09-20T23:00:24Z",
+  "published_kst": "2026-09-21T08:00:24+09:00",
+  "pub_hour_kst": 8,
+  "pub_weekday_kst": 0,
+  "duration_s": 930,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 602,
+  "first_seen": "2026-09-21T13:46+09:00",
+  "first_views": 1282,
   "watch_hits": []
  }
 }
