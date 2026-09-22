@@ -1,24 +1,4 @@
 {
- "idHbep0iMtc": {
-  "video_id": "idHbep0iMtc",
-  "title": "기연을 얻었는데 너무 똑똑하다 | 15화 #무협소설 #무협오디오북 #오디오북 #무협 #외전 #무협몰아듣기 #무협지 #웹소설 #무협판타지 #판타지",
-  "channel_id": "UCsTjJrZAYzyNjiC6Xd-lzFA",
-  "channel": "모든소설",
-  "published_at": "2026-09-08T03:00:06Z",
-  "published_kst": "2026-09-08T12:00:06+09:00",
-  "pub_hour_kst": 12,
-  "pub_weekday_kst": 1,
-  "duration_s": 1941,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 290,
-  "first_seen": "2026-09-08T23:22+09:00",
-  "first_views": 1125,
-  "watch_hits": []
- },
  "YtsXFjoHe2g": {
   "video_id": "YtsXFjoHe2g",
   "title": "천만배우의 탄생 #웹툰추천",
@@ -1824,6 +1804,28 @@
   "subs": 8220,
   "first_seen": "2026-09-22T08:59+09:00",
   "first_views": 268,
+  "watch_hits": []
+ },
+ "UeFonD0yshY": {
+  "video_id": "UeFonD0yshY",
+  "title": "세계관부터 남다른 판타지 3편",
+  "channel_id": "UCBpABbEqIZlWeir_LMJ1Rlg",
+  "channel": "리뷰라마",
+  "published_at": "2026-09-19T11:00:28Z",
+  "published_kst": "2026-09-19T20:00:28+09:00",
+  "pub_hour_kst": 20,
+  "pub_weekday_kst": 5,
+  "duration_s": 567,
+  "format": "롱폼",
+  "topic": "캐릭터·세계관",
+  "topics": [
+   "캐릭터·세계관",
+   "리뷰·감상",
+   "추천·큐레이션"
+  ],
+  "subs": 33100,
+  "first_seen": "2026-09-22T13:38+09:00",
+  "first_views": 3113,
   "watch_hits": []
  }
 }
