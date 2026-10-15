@@ -1,24 +1,4 @@
 {
- "nucSnj1JmSM": {
-  "video_id": "nucSnj1JmSM",
-  "title": "괴이한 수련의 세상 - 제 2회: 기괴한 혼담과 순찰대의 비극적인 첫날 / 기괴한 혼담과 순찰대의 비극적인 첫날",
-  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
-  "channel": "동방 판타지",
-  "published_at": "2026-10-01T03:46:21Z",
-  "published_kst": "2026-10-01T12:46:21+09:00",
-  "pub_hour_kst": 12,
-  "pub_weekday_kst": 3,
-  "duration_s": 14418,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 8380,
-  "first_seen": "2026-10-04T08:43+09:00",
-  "first_views": 1184,
-  "watch_hits": []
- },
  "3wpGVcYU3sA": {
   "video_id": "3wpGVcYU3sA",
   "title": "현혼도장 - 제 3회: 제40장 곽 아군의 조언과 장어의 결심 (곽 아군의 조언과 결심)",
@@ -37,26 +17,6 @@
   "subs": 8380,
   "first_seen": "2026-10-04T08:43+09:00",
   "first_views": 49,
-  "watch_hits": []
- },
- "WYVjv27Ztk4": {
-  "video_id": "WYVjv27Ztk4",
-  "title": "만지면 충전되는 심장의 비밀 #넷플릭스 #드라마추천 #판타지로코",
-  "channel_id": "UC4xW2qBDcX_CHZaPic-CkXw",
-  "channel": "이슈블",
-  "published_at": "2026-10-01T00:35:27Z",
-  "published_kst": "2026-10-01T09:35:27+09:00",
-  "pub_hour_kst": 9,
-  "pub_weekday_kst": 3,
-  "duration_s": 27,
-  "format": "쇼츠",
-  "topic": "추천·큐레이션",
-  "topics": [
-   "추천·큐레이션"
-  ],
-  "subs": 19,
-  "first_seen": "2026-10-04T08:43+09:00",
-  "first_views": 1190,
   "watch_hits": []
  },
  "HSx2z-Utbho": {
@@ -78,26 +38,6 @@
   "subs": 17000,
   "first_seen": "2026-10-04T08:43+09:00",
   "first_views": 23170,
-  "watch_hits": []
- },
- "wt2xFx0ll-g": {
-  "video_id": "wt2xFx0ll-g",
-  "title": "괴이한 수련의 세상 - 제 4회: 기력 고단으로의 돌파와 주귀와의 격투 - 기력 고단 돌파와 혈투",
-  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
-  "channel": "동방 판타지",
-  "published_at": "2026-10-01T03:56:38Z",
-  "published_kst": "2026-10-01T12:56:38+09:00",
-  "pub_hour_kst": 12,
-  "pub_weekday_kst": 3,
-  "duration_s": 13988,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 8380,
-  "first_seen": "2026-10-04T08:43+09:00",
-  "first_views": 1009,
   "watch_hits": []
  },
  "KEUFuFVHFRA": {
@@ -1283,6 +1223,26 @@
   "subs": 143,
   "first_seen": "2026-10-15T08:50+09:00",
   "first_views": 4520,
+  "watch_hits": []
+ },
+ "nBtRhfSXvjo": {
+  "video_id": "nBtRhfSXvjo",
+  "title": "낭인 01화 밥값은 목숨값보다 비싸다 #무협 #소설 #문피아 #reels #shorts #판타지",
+  "channel_id": "UCBLhVRO2OmAzxO72xV-4DCw",
+  "channel": "시니어",
+  "published_at": "2026-10-15T02:17:09Z",
+  "published_kst": "2026-10-15T11:17:09+09:00",
+  "pub_hour_kst": 11,
+  "pub_weekday_kst": 3,
+  "duration_s": 181,
+  "format": "쇼츠",
+  "topic": "플랫폼·시장 동향",
+  "topics": [
+   "플랫폼·시장 동향"
+  ],
+  "subs": 3110,
+  "first_seen": "2026-10-15T13:23+09:00",
+  "first_views": 8,
   "watch_hits": []
  }
 }
