@@ -39,30 +39,6 @@
   "first_views": 2,
   "watch_hits": []
  },
- "TpBVTw3ulBU": {
-  "video_id": "TpBVTw3ulBU",
-  "title": "나혼렙 다음엔 뭐 보지? 헌터 웹툰 TOP16 | 나혼렙 후속작이 우리 순위 9위인 이유",
-  "channel_id": "UCBpABbEqIZlWeir_LMJ1Rlg",
-  "channel": "리뷰라마",
-  "published_at": "2026-10-04T02:30:10Z",
-  "published_kst": "2026-10-04T11:30:10+09:00",
-  "pub_hour_kst": 11,
-  "pub_weekday_kst": 6,
-  "duration_s": 493,
-  "format": "롱폼",
-  "topic": "리뷰·감상",
-  "topics": [
-   "리뷰·감상",
-   "추천·큐레이션",
-   "플랫폼·시장 동향"
-  ],
-  "subs": 34000,
-  "first_seen": "2026-10-06T19:04+09:00",
-  "first_views": 46982,
-  "watch_hits": [
-   "나 혼자만 레벨업"
-  ]
- },
  "N89H1IjDSQg": {
   "video_id": "N89H1IjDSQg",
   "title": "최고의 기운 - 제 4회: 절대검신, 참신장로의 일격",
@@ -81,26 +57,6 @@
   "subs": 8400,
   "first_seen": "2026-10-06T19:04+09:00",
   "first_views": 15,
-  "watch_hits": []
- },
- "CSFgqULQfYg": {
-  "video_id": "CSFgqULQfYg",
-  "title": "[BL 로맨스/판타지] 경애하는 그대에게",
-  "channel_id": "UC_CnxSMO3EAS-QyOATDcaMA",
-  "channel": "출판사 월 Month",
-  "published_at": "2026-10-04T03:14:15Z",
-  "published_kst": "2026-10-04T12:14:15+09:00",
-  "pub_hour_kst": 12,
-  "pub_weekday_kst": 6,
-  "duration_s": 33,
-  "format": "쇼츠",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 1710,
-  "first_seen": "2026-10-06T19:04+09:00",
-  "first_views": 1190,
   "watch_hits": []
  },
  "ZbiAyeo4H5s": {
@@ -1486,6 +1442,67 @@
   "subs": 17,
   "first_seen": "2026-10-18T08:56+09:00",
   "first_views": 1173,
+  "watch_hits": []
+ },
+ "DA2jZvT_7ME": {
+  "video_id": "DA2jZvT_7ME",
+  "title": "즉사기 들고 무림에 떨어짐",
+  "channel_id": "UCFGfe71GGyhcloMJ2kYw7lA",
+  "channel": "웹툰리뷰_크롤",
+  "published_at": "2026-10-15T06:00:00Z",
+  "published_kst": "2026-10-15T15:00:00+09:00",
+  "pub_hour_kst": 15,
+  "pub_weekday_kst": 3,
+  "duration_s": 50,
+  "format": "쇼츠",
+  "topic": "리뷰·감상",
+  "topics": [
+   "리뷰·감상",
+   "추천·큐레이션"
+  ],
+  "subs": 101000,
+  "first_seen": "2026-10-18T13:17+09:00",
+  "first_views": 107089,
+  "watch_hits": []
+ },
+ "x3WKDqY6CnA": {
+  "video_id": "x3WKDqY6CnA",
+  "title": "⚔️ 검보다 먼저 바람을 읽다, 하진의 각성 | 천하진검 8부 [AI 영화·AI드라마·무협 판타지드라마]",
+  "channel_id": "UCaLfqgAemI8opLl805SBmyA",
+  "channel": "Studio Glow",
+  "published_at": "2026-10-18T00:12:17Z",
+  "published_kst": "2026-10-18T09:12:17+09:00",
+  "pub_hour_kst": 9,
+  "pub_weekday_kst": 6,
+  "duration_s": 688,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 604,
+  "first_seen": "2026-10-18T13:17+09:00",
+  "first_views": 2499,
+  "watch_hits": []
+ },
+ "mgANOibfQdQ": {
+  "video_id": "mgANOibfQdQ",
+  "title": "무협소설 - 파천 78화",
+  "channel_id": "UCMteqciPhwUK_TjEDr-AlAw",
+  "channel": "무협 판타지 소설 오디오북",
+  "published_at": "2026-10-17T22:45:05Z",
+  "published_kst": "2026-10-18T07:45:05+09:00",
+  "pub_hour_kst": 7,
+  "pub_weekday_kst": 6,
+  "duration_s": 863,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 3640,
+  "first_seen": "2026-10-18T13:17+09:00",
+  "first_views": 2861,
   "watch_hits": []
  }
 }
