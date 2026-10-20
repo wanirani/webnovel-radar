@@ -1,24 +1,4 @@
 {
- "P3litENNgSY": {
-  "video_id": "P3litENNgSY",
-  "title": "최고의 기운 - 제 6회: 마제 강림과 옥청성종의 위기, 마제 강림과 옥청성종의 위기",
-  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
-  "channel": "동방 판타지",
-  "published_at": "2026-10-06T02:26:37Z",
-  "published_kst": "2026-10-06T11:26:37+09:00",
-  "pub_hour_kst": 11,
-  "pub_weekday_kst": 1,
-  "duration_s": 14237,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 8400,
-  "first_seen": "2026-10-06T19:04+09:00",
-  "first_views": 72,
-  "watch_hits": []
- },
  "XTz-srK0NEg": {
   "video_id": "XTz-srK0NEg",
   "title": "[로맨스 웹소설] 집착하는 오빠친구",
@@ -37,46 +17,6 @@
   "subs": 1710,
   "first_seen": "2026-10-06T19:04+09:00",
   "first_views": 2,
-  "watch_hits": []
- },
- "N89H1IjDSQg": {
-  "video_id": "N89H1IjDSQg",
-  "title": "최고의 기운 - 제 4회: 절대검신, 참신장로의 일격",
-  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
-  "channel": "동방 판타지",
-  "published_at": "2026-10-06T02:31:39Z",
-  "published_kst": "2026-10-06T11:31:39+09:00",
-  "pub_hour_kst": 11,
-  "pub_weekday_kst": 1,
-  "duration_s": 14079,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 8400,
-  "first_seen": "2026-10-06T19:04+09:00",
-  "first_views": 15,
-  "watch_hits": []
- },
- "ZbiAyeo4H5s": {
-  "video_id": "ZbiAyeo4H5s",
-  "title": "최고의 기운 - 제 8회: 천정의 감시와 한지의 고독한 수행",
-  "channel_id": "UC9Xp9-oW9eqCtArp4blNjxg",
-  "channel": "동방 판타지",
-  "published_at": "2026-10-06T02:37:44Z",
-  "published_kst": "2026-10-06T11:37:44+09:00",
-  "pub_hour_kst": 11,
-  "pub_weekday_kst": 1,
-  "duration_s": 14055,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 8400,
-  "first_seen": "2026-10-06T19:04+09:00",
-  "first_views": 54,
   "watch_hits": []
  },
  "c92RLczNauQ": {
@@ -1623,6 +1563,26 @@
   "subs": 74,
   "first_seen": "2026-10-20T08:31+09:00",
   "first_views": 4077,
+  "watch_hits": []
+ },
+ "U3h8sjVwb84": {
+  "video_id": "U3h8sjVwb84",
+  "title": "무협소설 - 파천 71화 - 80화 몰아보기",
+  "channel_id": "UCMteqciPhwUK_TjEDr-AlAw",
+  "channel": "무협 판타지 소설 오디오북",
+  "published_at": "2026-10-19T23:00:04Z",
+  "published_kst": "2026-10-20T08:00:04+09:00",
+  "pub_hour_kst": 8,
+  "pub_weekday_kst": 1,
+  "duration_s": 8861,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 3860,
+  "first_seen": "2026-10-20T13:35+09:00",
+  "first_views": 1280,
   "watch_hits": []
  }
 }
