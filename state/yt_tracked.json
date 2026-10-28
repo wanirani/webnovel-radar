@@ -1,24 +1,4 @@
 {
- "9Es1Ls02q4Q": {
-  "video_id": "9Es1Ls02q4Q",
-  "title": "마류 50화 진범 대 유영아",
-  "channel_id": "UCMteqciPhwUK_TjEDr-AlAw",
-  "channel": "무협 판타지 소설 오디오북",
-  "published_at": "2026-10-14T21:30:17Z",
-  "published_kst": "2026-10-15T06:30:17+09:00",
-  "pub_hour_kst": 6,
-  "pub_weekday_kst": 3,
-  "duration_s": 807,
-  "format": "롱폼",
-  "topic": "기타·일반",
-  "topics": [
-   "기타·일반"
-  ],
-  "subs": 3360,
-  "first_seen": "2026-10-15T08:50+09:00",
-  "first_views": 1154,
-  "watch_hits": []
- },
  "nBtRhfSXvjo": {
   "video_id": "nBtRhfSXvjo",
   "title": "낭인 01화 밥값은 목숨값보다 비싸다 #무협 #소설 #문피아 #reels #shorts #판타지",
@@ -1817,6 +1797,67 @@
   "subs": 1000,
   "first_seen": "2026-10-28T08:40+09:00",
   "first_views": 8004,
+  "watch_hits": []
+ },
+ "xceWjdx8Ndg": {
+  "video_id": "xceWjdx8Ndg",
+  "title": "이 대륙은 거대한 '뚜껑'이었다 #shorts",
+  "channel_id": "UCDcoHayH7U92yiQbtFTqxZg",
+  "channel": "오케이군",
+  "published_at": "2026-10-28T11:54:14Z",
+  "published_kst": "2026-10-28T20:54:14+09:00",
+  "pub_hour_kst": 20,
+  "pub_weekday_kst": 2,
+  "duration_s": 39,
+  "format": "쇼츠",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 4,
+  "first_seen": "2026-10-29T08:05+09:00",
+  "first_views": 1134,
+  "watch_hits": []
+ },
+ "K7zJIfbbm7I": {
+  "video_id": "K7zJIfbbm7I",
+  "title": "장경각에 들어가지 못한 문지기… 듣기만 하던 그가 문파 절학의 오류를 찾아냈다!",
+  "channel_id": "UCSXPSge1lvTjJAT5a4CjScA",
+  "channel": "절대검신",
+  "published_at": "2026-10-25T11:11:40Z",
+  "published_kst": "2026-10-25T20:11:40+09:00",
+  "pub_hour_kst": 20,
+  "pub_weekday_kst": 6,
+  "duration_s": 15247,
+  "format": "롱폼",
+  "topic": "기타·일반",
+  "topics": [
+   "기타·일반"
+  ],
+  "subs": 5990,
+  "first_seen": "2026-10-29T08:05+09:00",
+  "first_views": 5384,
+  "watch_hits": []
+ },
+ "fV2lF2DA140": {
+  "video_id": "fV2lF2DA140",
+  "title": "#영화리뷰 #영화추천 #영화 #영화소개 #영화리뷰결말포함 #웹소설작가브이로그 #웹소설리뷰 #웹소설추천 #웹소설 #웹소설작가 #웹소설원작 #b급 #b급감성 #영화채널",
+  "channel_id": "UCm2pC-oi2ch7KfgBCH_0pEw",
+  "channel": "B급문화살롱:리뷰읽는남자들 (in 삐딱시선)",
+  "published_at": "2026-10-27T19:42:13Z",
+  "published_kst": "2026-10-28T04:42:13+09:00",
+  "pub_hour_kst": 4,
+  "pub_weekday_kst": 2,
+  "duration_s": 25,
+  "format": "쇼츠",
+  "topic": "리뷰·감상",
+  "topics": [
+   "리뷰·감상",
+   "추천·큐레이션"
+  ],
+  "subs": 513,
+  "first_seen": "2026-10-29T08:05+09:00",
+  "first_views": 1203,
   "watch_hits": []
  }
 }
